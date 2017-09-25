@@ -1,8 +1,8 @@
 {
   "name": "nativescript-status-bar",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple NativeScript plugin for controlling status bar visibility.",
-  "main": "status-bar.js",
+  "main": "status-bar",
   "nativescript": {
     "platforms": {
       "ios": "2.3.0",
